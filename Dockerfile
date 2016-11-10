@@ -1,6 +1,6 @@
 # gui81/alfresco
 
-FROM babim/centosbase
+FROM babim/centos7base
 
 # install some necessary/desired RPMs and get updates
 RUN yum update -y && \
