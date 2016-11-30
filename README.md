@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/babim/alfresco.svg)](https://microbadger.com/images/babim/alfresco "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/alfresco.svg)](https://microbadger.com/images/babim/alfresco "Get your own version badge on microbadger.com")
+
 docker-alfresco
 ===============
 
